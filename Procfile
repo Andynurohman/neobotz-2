@@ -1,1 +1,1 @@
-worker: npm i -g pm2 && pm2 start index . && pm2 save && pm2 logs
+worker: npm i -g pm2 && pm2 start node . && pm2 save && pm2 logs
